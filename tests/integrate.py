@@ -1,4 +1,3 @@
-import app
 import os
 import unittest
 
